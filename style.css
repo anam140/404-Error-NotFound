@@ -1,0 +1,97 @@
+body {
+        font-family: "Poppins", sans-serif;
+      }
+
+h1{
+  position: absolute;
+  height: 190px;
+  width: 586px;
+  left: 735px;
+
+  top: 150px;
+
+  font-family: "Space Mono" , monospace;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 90px;
+  letter-spacing: -2%;
+  color: #333333;
+}
+
+.container{
+  margin-left: 77px;
+}
+
+.error404{
+  margin-top: 40px;
+  font-size: 25px;
+  font-family: 'Inconsolata', monospace;
+  line-height: 25.18px;
+}
+
+#scarecrow
+{
+  position: absolute;
+
+  top: 4px;
+
+  width: 539.px;
+  height: 416px;
+  padding-top: 200px;
+
+}
+
+.description{
+  position: absolute;
+  width: 381px;
+  height: 108px;
+  left: 736px;
+
+  top: 370px;
+
+  font-family: "Space Mono",monospace;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35.54px;
+  letter-spacing: -3.5%;
+  color: #4f4f4f;
+}
+
+#goto{
+  position: absolute;
+  background-color: #333333;
+  width: 216px;
+  height: 68px;
+
+  margin-top: 50px;
+  color: white;
+  border-color: #333333;
+  font-family:"Space Mono",monospace;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;  
+  top: 530px;
+  left: 736.9px;
+  letter-spacing: -3.5%;
+  line-height: 20.73px;
+}
+
+
+#username
+{
+  position: absolute;
+
+  top: 800px;
+  left: 37.39%;
+  height: 17px;
+  width: 287px;
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 17.07px;
+  text-align: center;
+  color: #BDBDBD;
+  margin-bottom: 17px;
+}
